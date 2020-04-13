@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-image: url("https://cdn130.picsart.com/299432776437201.jpg?type=webp&to=min&r=640");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   }
+
+.nama {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h4{
+    margin: 0;
+    line-height: 1;
+}
+
+.tengah {
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0, 0.185);
+}
+
+div.container6 {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+div.container6 h1, h4 {
+    margin: 0 }
+
+.kotak {
+    background-color: rgb(0, 0, 0, 0.185);
+    padding: 25px 50px;
+    border-radius: 10px;
+}
